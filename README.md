@@ -1,4 +1,5 @@
-# React Expence Tracker Application
+# React expense Tracker Application
+
 <hr />
 
 ## Available Scripts
